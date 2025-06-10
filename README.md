@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Go API – Clean Architecture
 
 Este projeto é uma aplicação de estudo desenvolvida em Go como parte da formação FullCycle. A API implementa operações completas de CRUD para **produtos** e manipulação de **usuários**, utilizando uma arquitetura modular baseada em princípios de Clean Architecture, com testes unitários e documentação Swagger.
