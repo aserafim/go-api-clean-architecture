@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧩 Go API – Clean Architecture
 
